@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\boat_application\boat_application\bin\Debug\boat_application.exe.config
+C:\Users\pc\source\repos\boat_application\boat_application\bin\Debug\boat_application.exe
+C:\Users\pc\source\repos\boat_application\boat_application\bin\Debug\boat_application.pdb
+C:\Users\pc\source\repos\boat_application\boat_application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\boat_application\boat_application\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\pc\source\repos\boat_application\boat_application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\source\repos\boat_application\boat_application\obj\Debug\boat_application.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\boat_application\boat_application\obj\Debug\boat_application.Properties.Resources.resources
+C:\Users\pc\source\repos\boat_application\boat_application\obj\Debug\boat_application.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\boat_application\boat_application\obj\Debug\boat_application.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\boat_application\boat_application\obj\Debug\boat_application.csproj.CopyComplete
+C:\Users\pc\source\repos\boat_application\boat_application\obj\Debug\boat_application.exe
+C:\Users\pc\source\repos\boat_application\boat_application\obj\Debug\boat_application.pdb
