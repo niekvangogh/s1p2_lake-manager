@@ -2,7 +2,7 @@
 {
     public class Crew
     {
-        public string Name { get; set; }
+        public string Name { get; }
 
         public int Weight { get; set; }
 
